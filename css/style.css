@@ -201,12 +201,8 @@ body::-webkit-scrollbar-thumb {
 .about .container h2:before{
     content: "";
     position: absolute;
-    border-width: 1px;
-    padding-left: 344px;
-    border-color: transparent transparent #333;
     padding-bottom: 12px;
     margin-top: 25px;
-    border-style: solid;
 }
 .about .container  img{
     max-width: 100%;
@@ -220,6 +216,7 @@ body::-webkit-scrollbar-thumb {
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 20px;
+    letter-spacing: 7px;
 }
 .about .container .sub-p{
     padding: 16px 0;
