@@ -428,7 +428,7 @@ hr.style-two {
     margin-top: 50px;
 }
 .contact .container h2:after{
-    content: "";
+
     position: absolute;
     border-width: 1px;
     padding-left: 170px;
